@@ -41,7 +41,7 @@ pip freeze > requirements.txt
 
 ``` bash
 git clone https://github.com/elmandili/word-embedding.git
-cd your-repo
+cd word-embedding
 ```
 
 2.  Launch Jupyter Notebook:
